@@ -3,6 +3,7 @@
 *.gz
 *PKG-INFO
 *.egg-info
+.env
 
 # Python Related #
 .python-version
